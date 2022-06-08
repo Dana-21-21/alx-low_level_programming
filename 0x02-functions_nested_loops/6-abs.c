@@ -10,4 +10,4 @@ int _abs(int n)
 		return (n * -1);
 	return (n);
 }
-© 2022 GitHub, Inc.
+
