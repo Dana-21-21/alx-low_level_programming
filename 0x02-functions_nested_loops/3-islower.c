@@ -15,5 +15,4 @@ int _islower(int c)
 		return (0);
 	}
 }
-© 2022 GitHub, Inc.
-Terms
+
